@@ -1,0 +1,342 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'Dosis', sans-serif;
+}
+.container{
+	width: 100%;
+	margin: 0 auto;
+}
+.header{
+	width: 100%;
+	float: left;
+	background-color: #223047;
+	position: fixed;
+	border-bottom: 1px solid white;
+}
+.h{
+	width: 20%;
+	float: left;
+	margin: 2% 10% 2% 10%;
+}
+.i{
+		width: 15%;
+		float: left;
+		margin: 2% 0% 2% 5%;
+}
+.j{
+	width: 27%;
+	float: left;
+	margin: 2% 0% 2% 10%;
+}
+.log{
+	margin-left: 100px;
+	max-width: 200px;
+	height: auto;
+}
+nav ul li{ 
+	display: inline;
+	list-style: none;
+	margin: 2% 0% 2% 1%;
+	color: white;
+}
+.button{
+	margin-right: 12px;
+	padding: 6px 6px;
+	background-color: #00fff0;
+	border-radius: 6px;
+	border-bottom-style: none;
+}
+.menu{
+	margin: 2% 0% 2% 0%;
+	font-weight: 900;
+	font-family: Font Awesome 4.7.0;
+}
+.one{
+	width: 100%;
+	float: left;
+	background-color: #223047; 
+}
+.a{
+	width: 38%;
+	float: left;
+	margin: 20% 2% 4% 10%;
+}
+.b{
+	width: 38%;
+	float: left;
+	margin: 20% 0% 4% 2%;
+}
+.c{
+	margin: 0% 2% 4% 10%;
+	padding: 6px 6px;
+	background-color: #00fff0;
+	border-radius: 6px;
+}
+.d{
+	margin: 0% 0% 4% 0%;
+	padding: 6px 6px;
+	background-color: #223047;
+	color: white;
+	border-radius: 6px;
+}
+.e{
+	margin-bottom: -200px;
+}
+.two{
+	width: 100%;
+	float: left;
+}
+.f{
+	width: 100%;
+	float: left;
+}
+.g{
+	width: 18%;
+	float: left;
+	margin: 4% 0% 4% 10%;
+	border: 1px solid black;
+	padding: 4px 4px;
+}
+.k{
+	width: 18%;
+	float: left;
+	margin: 4% 0% 4% 1%;
+	border: 1px solid black;
+	padding: 4px 4px;
+}
+.m{
+	width: 18%;
+	float: left;
+	margin: 4% 0% 4% 1%;
+	border: 1px solid black;
+	padding: 4px 4px;
+}
+.n{
+	width: 18%;
+	float: left;
+	margin: 4% 10% 4% 1%;
+	border: 1px solid black;
+	padding: 4px 4px;
+}
+.o{
+	border-bottom: 3px solid #00fff0;
+	width: 80px;
+	margin-left: 640px;
+}
+.p{
+	margin-left: 70px;
+	max-width: 200px;
+	height: auto; 
+}
+.three{
+	width: 100%;
+	float: left;
+}
+.q{
+	width: 46%;
+	float: left;
+	background-color: #323a4d;
+}
+.r{
+	width: 46%;
+	float: left;
+	padding: 80px 0px 80px 80px;
+	background-color: #f5f6fa;
+}
+.four{
+	width: 100%;
+	float: left;
+}
+.s{
+	width: 46%;
+	float: left;
+	margin-right: 4%;
+}
+.t{
+	width: 50%;
+	float: left;
+}
+.v{
+	margin: 40px 0px 90px 80px;
+	max-width: 300px;
+	height: auto;
+}
+.u{
+	margin-left: 76%;
+	padding: 6px 6px;
+	background-color: #00fff0;
+	border-radius: 6px;
+}
+.five{
+	width: 100%;
+	float: left;
+}
+.w{
+	width: 39%;
+	float: left;
+	margin: 6% 1% 0% 10%;
+}
+.x{
+	width: 39%;
+	float: left;
+	margin: 4% 10% 4% 1%;
+}
+.y{
+	max-width: 400px;
+	height: auto;
+}
+.z{
+	max-width: 400px;
+	height: auto;
+}
+.six{
+	width: 100%;
+	float: left;
+	background-color:#f5f6fa;
+}
+.ba{
+	width: 50%;
+	float: left;
+}
+.aa{
+	width: 50%;
+	float: left;
+}
+.seven{
+	width: 100%;
+	float: left;
+	background-color:#223047;
+}
+.da{
+	max-width: 100px;
+	height: auto;
+	margin-left: 47%;
+	margin-top: 100px;
+}
+.eight{
+	width: 100%;
+	float: left;
+	margin-top: 10%;
+}
+.ea{
+	margin: 0% 2% 8% 47%;
+	padding: 6px 6px;
+	background-color: #00fff0;
+	border-radius: 6px;
+}
+.nine{
+	width: 100%;
+	float: left;
+	background-color: #223047;
+}
+.ten{
+	width: 100%;
+	float: left;
+	background-color: #f5f6fa;
+}
+.fa{
+	width: 39%;
+	float: left;
+	margin: 4% 1% 4% 10%;
+}
+.ga{
+	width: 39%;
+	float: left;
+	margin: 4% 10% 4% 1%;
+}
+.ha{
+	margin: 4% 1% 4% 10%;
+	max-width: 400px;
+	height: auto;
+}
+.ia{
+	margin: 0% 0% 6% 0%;
+	max-width: 400px;
+	height: auto;
+}
+.ka{
+	margin-left: 47%;
+	margin-bottom: -120px;
+	padding: 6px 6px;
+	background-color: #00fff0;
+	border-radius: 6px;
+}
+.eleven{
+	width: 100%;
+	float: left;
+	margin: 1% 0% 1% 0%;
+}
+.la{
+	width: 20%;
+	float: left;
+	margin-left: 10%;
+}
+.ma{
+	width: 20%;
+	float: left;
+}
+.na{
+	width: 20%;
+	float: left;
+}
+.oa{
+	width: 20%;
+	float: left;
+	margin-right: 10%;
+}
+.pa{
+	width: 100%;
+	float: left;
+}
+.qa{
+	width: 100%;
+	float: left;
+	
+}
+.ra{
+	margin: 2% 1% 4% 40%;
+	background-color: gray;
+	color: gray;
+	padding: 6px 6px;
+}
+.sa{
+	background-color: #00fff0;
+	padding: 6px 6px;
+}
+.ab{
+	width: 100%;
+	float: left;
+	background-color: #223047; 
+}
+.bb{
+	width: 50%;
+	float: left;
+}
+.cb{
+	width: 50%;
+	float: left;
+}
+.db{
+	max-width: 8px;
+	height: auto;
+	margin-left: 10%;
+}
+.eb{
+	max-width: 8px;
+	height: auto;
+}
+.gb{
+	max-width: 8px;
+	height: auto;
+}
+.hb{
+	max-width: 8px;
+	height: auto;
+}
+.ib{
+	max-width: 8px;
+	height: auto;
+}
